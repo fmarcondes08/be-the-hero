@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src=".github/BeTheHero.svg" width="250px" />
+    <img alt="BeTheHero" title="#bethehero" src=".github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src=".github/heroes.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
